@@ -1,0 +1,11 @@
+
+[window]
+dynamic_padding = true
+padding = {x = 10, y = 10}
+opacity = 0.95
+
+[font]
+normal = { family = "JetBrainsMono Nerd Font", style = "Regular" } 
+
+[general]
+import = ["~/.config/alacritty/themes/themes/miasma.toml"]
