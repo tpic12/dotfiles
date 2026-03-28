@@ -7,5 +7,4 @@ opacity = 0.95
 [font]
 normal = { family = "JetBrainsMono Nerd Font", style = "Regular" } 
 
-[general]
-import = ["~/.config/alacritty/themes/themes/miasma.toml"]
+import = ["~/.config/alacritty/catppuccin_mocha.toml"]
