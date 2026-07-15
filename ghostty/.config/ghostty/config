@@ -57,3 +57,5 @@ background-blur = 10
 background = #120F16
 
 window-padding-x = 2
+
+command = /bin/zsh -l -i   
